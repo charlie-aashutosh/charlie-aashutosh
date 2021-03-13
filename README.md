@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charlie-aashutosh
 - 👀 I’m interested in Artificial Intelligence, Data Science and Cloud Computing
-- 🌱 I’m currently learning MLOps and AWS
+- 🌱 I’m currently working on MLOps and AWS
 - 📫 How to reach me charlie.awakening@gmail.com
 
 <!---
